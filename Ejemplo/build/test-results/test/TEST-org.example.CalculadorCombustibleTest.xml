@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.CalculadorCombustibleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-07-29T20:11:22" hostname="MBP-de-Agustin.fibertel.com.ar" time="1.895">
+  <properties/>
+  <testcase name="testCalcularCombustible()" classname="org.example.CalculadorCombustibleTest" time="1.895"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
