@@ -18,8 +18,7 @@ simultánea mediante varios hilos, optimizando así el rendimiento general.
 
 ## Necesarias para aprobar:
 
-- La carpeta "Ejemplo" no debería de existir, el contenido del repositorio debería de ir dentro de la carpeta root. Lo
-  mismo con el README.md, y el .gitignore, deberían de ubicarse en el root del proyecto.
+- El README.md, y el .gitignore, deberían de ubicarse en el root del proyecto.
 - Usar Java 21
 - No se pueden ver las imágenes de las conclusiones
 - Ejercicio 1: en los tests no utliza @BeforeEach, codigo repetido que se pisa ya que no se renueva en cada @Test.
